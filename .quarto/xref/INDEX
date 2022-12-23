@@ -1,0 +1,47 @@
+{
+  "index.qmd": {
+    "index.html": "21d598c2"
+  },
+  "about.qmd": {
+    "about.html": "8dde60ee"
+  },
+  "resource/citations.qmd": {
+    "citations.html": "7d2889a2"
+  },
+  "resource/index.qmd": {
+    "index.html": "4d54898d"
+  },
+  "resource/reading.qmd": {
+    "reading.html": "dfb8ec91"
+  },
+  "resource/writing.qmd": {
+    "writing.html": "23dac817"
+  },
+  "syllabus.qmd": {
+    "syllabus.html": "481ceb4c"
+  },
+  "assignment/index.qmd": {
+    "index.html": "a9e02996"
+  },
+  "schedule.qmd": {
+    "schedule.html": "4501a5a9"
+  },
+  "content/01_intro.qmd": {
+    "01_intro.html": "53770eda"
+  },
+  "content/index.qmd": {
+    "index.html": "c49bbd77"
+  },
+  "content/01-intro.qmd": {
+    "01-intro.html": "ef8371a8"
+  },
+  "content/02-latino-identity.qmd": {
+    "02-latino-identity.html": "4141e75b"
+  },
+  "content/03-politicized-identities.qmd": {
+    "03-politicized-identities.html": "b364ed53"
+  },
+  "resource/website.qmd": {
+    "website.html": "a8321ba2"
+  }
+}
