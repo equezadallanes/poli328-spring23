@@ -1,0 +1,212 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "assignment/index.html",
+    "href": "assignment/index.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "There will be three types of assignments in this course: weekly summaries, two papers, and one oral presentation."
+  },
+  {
+    "objectID": "content/01-intro.html",
+    "href": "content/01-intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Krogstad, Jens Manuel, Jeffrey S. Passel, and Luis Noe-Bustamante. 2022. “Key facts about U.S. Latinos for National Hispanic Heritage Month.” Pew Research Center."
+  },
+  {
+    "objectID": "content/01-intro.html#thursday-january-12",
+    "href": "content/01-intro.html#thursday-january-12",
+    "title": "Introduction",
+    "section": "Thursday, January 12",
+    "text": "Thursday, January 12\n\nReadings\n\nBurke, Timothy. “How to Read in College.” Blog post. \nHoover Green, Amelia. 2013. “How to Read Political Science: A Guide in Four Steps.”"
+  },
+  {
+    "objectID": "content/02-latino-identity.html",
+    "href": "content/02-latino-identity.html",
+    "title": "Latina/o/x Identity",
+    "section": "",
+    "text": "Sanchez, Gabriel R., and Natalie Masuoka. 2010. “Brown-Utility Heuristic? The Presence and Contributing Factors of Latino Linked Fate.” Hispanic Journal of Behavioral Sciences 32(4): 519–31. ( available on Canvas)\nNoe-Bustamante, Luis, Lauren Mora, and Mark Hugo Lopez. 2020. ``About One-in-Four U.S. Hispanics Have Heard of Latinx, but Just 3% Use It.’’ Pew Research Center."
+  },
+  {
+    "objectID": "content/02-latino-identity.html#thursday-january-19",
+    "href": "content/02-latino-identity.html#thursday-january-19",
+    "title": "Latina/o/x Identity",
+    "section": "Thursday, January 19",
+    "text": "Thursday, January 19\n\nReadings\n\nZepeda-Millán, Chris, and Sophia J. Wallace. 2013. “Racialization in Times of Contention: How Social Movements Influence Latino Racial Identity.” Politics, Groups, and Identities 1(4): 510–27. ( available on Canvas)"
+  },
+  {
+    "objectID": "content/03-politicized-identities.html",
+    "href": "content/03-politicized-identities.html",
+    "title": "Politicized Identities: Group Consciousness and Linked Fate Among Latinos",
+    "section": "",
+    "text": "Lavariega Monforti, Jessica, and Gabriel R. Sanchez. 2010. “The Politics of Perception: An Investigation of the Presence and Sources of Perceptions of Internal Discrimination Among Latinos.” Social Science Quarterly 91(1): 245–65. ( available on Canvas)\nSanchez, Gabriel, Natalie Masuoka, and Brooke Abrams. 2019. “Revisiting the Brown-Utility Heuristic: A Comparison of Latino Linked Fate in 2006 and 2016.” Politics, Groups, and Identities 7(3): 673–83. ( available on Canvas)"
+  },
+  {
+    "objectID": "content/03-politicized-identities.html#thursday-january-26",
+    "href": "content/03-politicized-identities.html#thursday-january-26",
+    "title": "Politicized Identities: Group Consciousness and Linked Fate Among Latinos",
+    "section": "Thursday, January 26",
+    "text": "Thursday, January 26\n\nReadings\n\nSanchez, Gabriel R., and Edward D. Vargas. 2016. “Taking a Closer Look at Group Identity: The Link between Theory and Measurement of Group Consciousness and Linked Fate.” Political Research Quarterly 69(1): 160–74. ( available on Canvas)"
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Content",
+    "section": "",
+    "text": "Here you can find all the lists of topics and readings for the semester."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "POLI 328: Latina/o Politics in the US",
+    "section": "",
+    "text": "Latina/o Politics in the United States\n        \n        \n            \n        \n        \n            POLI 328 • Spring 2023Department of Political ScienceRice University\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\n\n\nInstructor\n\n   Enrique Quezada-Llanes\n   Herzstein Hall 102\n   enrique.quezada@rice.edu\n   oequezada\n\n\n\nCourse details\n\n   Tuesdays and Thursdays\n   January 9–May 2, 2023\n   10:50 AM – 12:05 PM\n   Herzstein Hall 210\n\n\n\nContacting me\nFor questions about the course, please reach out via email. I will generally respond within 24 hours."
+  },
+  {
+    "objectID": "resource/citations.html",
+    "href": "resource/citations.html",
+    "title": "How to Cite",
+    "section": "",
+    "text": "You will need to cite several pieces for your literature review. To help you figure this out, you will need to use a citation manager. While there are several options available, we will be using Zotero or Mendeley."
+  },
+  {
+    "objectID": "resource/index.html",
+    "href": "resource/index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Here you can find some resources that may be useful as you read political science and write for multiple audiences."
+  },
+  {
+    "objectID": "resource/reading.html",
+    "href": "resource/reading.html",
+    "title": "Reading Political Science",
+    "section": "",
+    "text": "For this course, you will be required to read journal articles and book chapters that political scientists write for other political scientists (or other social scientists). Even beyond this course, you have probably already encountered academic texts that are different from that which you find in popular media.\nThe following two readings can help you read these pieces more efficiently.\n\nBurke, Timothy. “How to Read in College.” Blog post. \nHoover Green, Amelia. 2013. “How to Read Political Science: A Guide in Four Steps.”"
+  },
+  {
+    "objectID": "resource/website.html",
+    "href": "resource/website.html",
+    "title": "This Website",
+    "section": "",
+    "text": "This website was built using Quarto and R, and is based on the course website by Andrew Heiss (at https://evalf22.classes.andrewheiss.com/) and the changes made by Matt Blackwell (at https://gov50.mattblackwell.org)."
+  },
+  {
+    "objectID": "resource/writing.html",
+    "href": "resource/writing.html",
+    "title": "Guidelines for Capitalization, Punctuation, and Writing Numbers",
+    "section": "",
+    "text": "Here are some useful resources to understand some rules and style guides around capitalization, proper nouns, quotation marks, and writing numbers. As some of these articles point out, these rules may vary by style guide (especially when it comes to numbers), but they are rules that are broadly applicable. It is also important to keep in mind that these rules are about writing in English. If you read and write in a different language, you may notice there are variations.\nFirst, this is about capitalization in general:\n\nCapitalization Rules \n\nThis one is specifically about proper nouns:\n\nProper Nouns \n\nThis one is about political terms:\n\nPolitical Terms \n\nNow, a couple of resources for using italics and quotation marks with other punctuation:\n\nQuotation Marks and Italics in Titles \nQuotation Marks and Punctuation \n\nAnd, finally, this last one is about writing numbers:\n\nWriting Numbers in English"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Here you can find the schedule for the semester with links to the list of readings for each week. In addition you’ll find links to instructions for the assignments in this course.\nAs a reminder, you are expected to submit a weekly summary for 9 weeks in the semester by 10:50 am on the corresponding Thursday.\nHere’s a guide to the schedule:\n\nMaterials (): This page contains the readings and other information (if any) for the entire week.\nAssignment (): This page contains the instructions for each assignment.\n\nAll readings will be made available on Canvas.\n\n\n\n\n\nDate\n\n\nTitle\n\n\nMaterials\n\n\nAssignment\n\n\n\n\n\n\nWeek 1\n\n\n\n\nJanuary 10\n\n\nIntroduction and Latino Demographics\n\n\n\n\n\n\n\n\n\n\nJanuary 12\n\n\nReading Political Science\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\n\n\nJanuary 17\n\n\nLatina/o/x Identity\n\n\n\n\n\n\n\n\n\n\nJanuary 19\n\n\nLatina/o/x Identity\n\n\n\n\n\n\n\n\n\n\nJanuary 19\n\n\nWeekly summary 1  (submit by 10:50 AM)\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\n\n\nJanuary 24\n\n\nPoliticized Identities\n\n\n\n\n\n\n\n\n\n\nJanuary 26\n\n\nPoliticized Identities\n\n\n\n\n\n\n\n\n\n\nJanuary 26\n\n\nWeekly summary 2  (submit by 10:50 AM)\n\n\n\n\n\n\n\n\n\n\nWeek 4\n\n\n\n\nJanuary 31\n\n\nHistorical Analysis and Changing Demographics\n\n\n\n\n\n\n\n\n\n\nFebruary 2\n\n\nHistorical Analysis and Changing Demographics\n\n\n\n\n\n\n\n\n\n\nFebruary 2\n\n\nWeekly summary 3  (submit by 10:50 AM)\n\n\n\n\n\n\n\n\n\n\nWeek 5\n\n\n\n\nFebruary 7\n\n\nLatino Political Behavior\n\n\n\n\n\n\n\n\n\n\nFebruary 9\n\n\nNO CLASS. Spring recess\n\n\n\n\n\n\n\n\n\n\nFebruary 9\n\n\nWeekly summary 4  (submit by 10:50 AM)\n\n\n\n\n\n\n\n\n\n\nWeek 6\n\n\n\n\nFebruary 14\n\n\nLatino Partisanship, Ideology, and Public Opinion\n\n\n\n\n\n\n\n\n\n\nFebruary 16\n\n\nLatino Partisanship, Ideology, and Public Opinion\n\n\n\n\n\n\n\n\n\n\nFebruary 16\n\n\nWeekly summary 5  (submit by 10:50 AM)\n\n\n\n\n\n\n\n\n\n\nWeek 7\n\n\n\n\nFebruary 21\n\n\nLatino/Chicano Activism\n\n\n\n\n\n\n\n\n\n\nFebruary 23\n\n\nLatino/Chicano Activism\n\n\n\n\n\n\n\n\n\n\nFebruary 23\n\n\nWeekly summary 6  (submit by 10:50 AM)\n\n\n\n\n\n\n\n\n\n\nWeek 8\n\n\n\n\nFebruary 28\n\n\nContemporary Trends and Determinants of Political Participation\n\n\n\n\n\n\n\n\n\n\nMarch 2\n\n\nContemporary Trends and Determinants of Political Participation  (submit by noon)\n\n\n\n\n\n\n\n\n\n\nMarch 2\n\n\nWeekly summary 7  (submit by 10:50 AM)\n\n\n\n\n\n\n\n\n\n\nWeek 9\n\n\n\n\nMarch 7\n\n\nThe Politics of Latino Catholics and Protestants\n\n\n\n\n\n\n\n\n\n\nMarch 9\n\n\nThe Politics of Latino Catholics and Protestants\n\n\n\n\n\n\n\n\n\n\nMarch 9\n\n\nWeekly summary 8  (submit by 10:50 AM)\n\n\n\n\n\n\n\n\n\n\nMarch 11–March 19\n\n\nSpring break!\n\n\n\n\n\n\n\n\n\n\nWeek 10\n\n\n\n\nMarch 21\n\n\nPolitics of Immigration\n\n\n\n\n\n\n\n\n\n\nMarch 23\n\n\nPolitics of Immigration\n\n\n\n\n\n\n\n\n\n\nMarch 23\n\n\nWeekly summary 9  (submit by 10:50 AM)\n\n\n\n\n\n\n\n\n\n\nWeek 11\n\n\n\n\nMarch 28\n\n\nRepresentation\n\n\n\n\n\n\n\n\n\n\nMarch 30\n\n\nRepresentation\n\n\n\n\n\n\n\n\n\n\nMarch 30\n\n\nWeekly summary 10  (submit by 10:50 AM)\n\n\n\n\n\n\n\n\n\n\nWeek 12\n\n\n\n\nApril 4\n\n\nContemporary Voting Behavior\n\n\n\n\n\n\n\n\n\n\nApril 6\n\n\nContemporary Voting Behavior\n\n\n\n\n\n\n\n\n\n\nApril 6\n\n\nWeekly summary 11  (submit by 10:50 AM)\n\n\n\n\n\n\n\n\n\n\nWeek 13\n\n\n\n\nApril 11\n\n\nHow Latinos Are Perceived\n\n\n\n\n\n\n\n\n\n\nApril 13\n\n\nHow Latinos Are Perceived\n\n\n\n\n\n\n\n\n\n\nApril 13\n\n\nWeekly summary 12  (submit by 10:50 AM)\n\n\n\n\n\n\n\n\n\n\nWeek 14\n\n\n\n\nNovember 28\n\n\nPresentations\n\n\n\n\n\n\n\n\n\n\nNovember 28\n\n\nPresentations"
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Enrique Quezada-Llanes\n   Herzstein Hall 102\n   enrique.quezada@rice.edu\n   oequezada\n\n\n\n\n\n   Tuesdays and Thursdays\n   January 9–May 2, 2023\n   10:50 AM – 12:05 PM\n   Herzstein Hall 210\nDownload PDF of syllabus with schedule"
+  },
+  {
+    "objectID": "syllabus.html#course-overview",
+    "href": "syllabus.html#course-overview",
+    "title": "Syllabus",
+    "section": "Course Overview",
+    "text": "Course Overview\nThis course will provide an overview of how Latinos interact with, relate to, and find representation in the American political system. We will begin by discussing Latino/x identity, identifying and describing the demographics of this population, and analyzing the extent to which Latinos have politicized identities. We will then analyze historical and demographic trends, including immigration patterns and policies as well as Chicano social and labor movements. After that, we will discuss Latino political behavior, where we will cover Latino public opinion, partisan affiliations, voting patterns, and representation. We will finish the course by discussing the role of Latinos in the last two elections, reflecting on both the narratives of the Latino vote in academia and the media."
+  },
+  {
+    "objectID": "syllabus.html#learning-outcomes",
+    "href": "syllabus.html#learning-outcomes",
+    "title": "Syllabus",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\n\nDevelop an understanding of the complexity of Latino/x identity in the United States\nSituate Latino politics in the United States in historical and sociopolitical context\nThink critically about the interactions between Latino political behavior and American political institutions\nApply the theories and concepts from research on Latino politics to current events"
+  },
+  {
+    "objectID": "syllabus.html#work-and-assessment",
+    "href": "syllabus.html#work-and-assessment",
+    "title": "Syllabus",
+    "section": "Work and Assessment",
+    "text": "Work and Assessment\n\nCourse Expectations\nStudents are expected to attend class and participate during class discussions. This course has both a lecture and a discussion component. The lectures will incorporate the readings assigned for that day/week. I expected you will have completed all readings prior to class and will come prepared with comments and questions. Unless noted otherwise, all readings will be made available on Canvas.\n\n\nAssignments and grades\nFinal course grades will be assigned as follows:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGrade\nRange\nGrade\nRange\n\n\n\n\nA\n93–100%\nC\n73–76%\n\n\nA−\n90–92%\nC−\n70–72%\n\n\nB+\n87–89%\nD+\n67–69%\n\n\nB\n83–86%\nD\n63–66%\n\n\nB−\n80–82%\nD−\n60–62%\n\n\nC+\n77–79%\nF\n< 60%\n\n\n\n\n\n\nFinal grades will be calculated based on the following components:\nParticipation (20%): All students are expected to be active participants in class discussions. Our learning experience will be enhanced if you come prepared and ready to share your comments, insights, and/or questions from the material covered in the lectures and readings with the rest of the class.\n\n\nAttendance policy:\n\nAttendance is part of your participation grade, and while there is no separate grade for attendance it is a prerequisite for in-class participation. That said, to accommodate unforeseeable circumstances, you have two unexcused absences that will not affect your participation grade. Please let the instructor know about any excused absences you anticipate during the semester. Note that students who are absent, whether excused or not, are still expected to submit the weekly summary corresponding to that week.\n\nWeekly summaries (15%): Each week for 9 weeks, you will summarize one of the readings (bolded below). That means you can skip some weeks. It is up to you which weeks you decide to skip. The summary must be no longer than three-quarters of a page (single-spaced, 12-point font). These summaries must be submitted via Canvas by 10:50 am on Thursdays. No credit will be given for submissions after class has started.\nTwo Papers (30%; 15% each): You will be writing two short papers (4-6 pages each) throughout the course. These assignments will require you to think about how what we learn in class relates to what you can observe in your political environment (what some call “the real world”). The assignment will also provide you with an opportunity to practice writing in different two genres for two different audiences. You can find a short description of each paper below (detailed instructions will be provided on Canvas):\n\n\nLiterature Review (4-6 pages):\n\nstudents will select a topic of interest and discuss how the existing literature address that topic. Students will identify what kinds of data political scientists have analyzed and will identify a gap in the literature that they would be interested in addressing in their final paper. The audience for this paper is an academic audience interested in Latino politics.\n\nCampaign memo (4-6 pages):\n\nstudents will write a campaign memo on the political attitudes and behaviors of Latinos/as. Students must provide sufficient background, provide clear takeaways, and propose strategies for a political campaign to appeal to Latino voters. The audience for this paper is a political campaign staff.\n\n\nPapers must be submitted via Canvas. Late submissions will be penalized: half a point (out of 10) if turned in late but on the same day and one point for each 24-hour period after the due date.\n\nOral Presentation (15%): Students will give an oral presentation based on their idea for the final paper. This will take the form of a conference presentation. Further instructions will be provided on Canvas and the instructor will model how to do such a presentation.\nFinal Paper (20%): In the final paper for this class, students will propose a research design to answer a question of interest. The question may be the same as the one that motivated the literature review from earlier in the course, but it may also be a different one. This paper must include an introduction, a literature review that situates the present question in the broader field, an answer to the question (the argument/theory), and a proposed design to answer the question. Students should meet with the instructor to discuss the paper and think about how one might design a study to answer the question of interest."
+  },
+  {
+    "objectID": "syllabus.html#conference-guidelines",
+    "href": "syllabus.html#conference-guidelines",
+    "title": "Syllabus",
+    "section": "Conference Guidelines",
+    "text": "Conference Guidelines\nStudents must schedule a 30-minute one-on-one meeting with the instructor at least once in the semester. These meetings will take place in Herzstein 102 during office hours, unless the student has a schedule conflict. During these meetings, we can discuss a writing assignment, reading assignment, oral presentations, revisions to a graded essay (see below), or any class material."
+  },
+  {
+    "objectID": "syllabus.html#course-conduct",
+    "href": "syllabus.html#course-conduct",
+    "title": "Syllabus",
+    "section": "Course Conduct",
+    "text": "Course Conduct\nIn this class, we will discuss politics and the people who participate (or not) in politics, and we will do so in a respectful environment. As in bound to be the case when we talk about politics, we may discuss topics that might be controversial or of a sensitive nature for some or all in our group. Our goal in this class is to have constructive discussions about the politics of Latinos in the United States. Derogatory comments toward other students will not be tolerated."
+  },
+  {
+    "objectID": "syllabus.html#communication-policy",
+    "href": "syllabus.html#communication-policy",
+    "title": "Syllabus",
+    "section": "Communication Policy",
+    "text": "Communication Policy\nIf you have questions about class in general or about a specific assignment, you can email me. You can expect a response within 24 hours (unless you email me on Friday). Students are also more than welcome to attend office hours, as this is time set aside specifically for you. Please note that I will not be “pre-grading” assignments, but I am happy to answer clarifying questions about them either via email or, preferably, during office hours."
+  },
+  {
+    "objectID": "syllabus.html#revision-policy",
+    "href": "syllabus.html#revision-policy",
+    "title": "Syllabus",
+    "section": "Revision Policy",
+    "text": "Revision Policy\nYou will have the opportunity to revise any draft that has been submitted and graded for a higher grade. If you wish to revise a writing assignment, you must meet with me during office hours within one week of receiving the graded assignment. During that meeting, we will discuss the feedback and the revisions you think are needed. Please submit the revised draft as an attachment in the original Canvas assignment no later than one week after our meeting."
+  },
+  {
+    "objectID": "syllabus.html#chosen-names-and-personal-pronouns",
+    "href": "syllabus.html#chosen-names-and-personal-pronouns",
+    "title": "Syllabus",
+    "section": "Chosen Names and Personal Pronouns",
+    "text": "Chosen Names and Personal Pronouns\nEveryone has the right to be addressed by the name and pronouns that correspond to their gender identity. Rosters do not list gender or pronouns, so you may indicate the pronouns you use so that I don’t make assumptions based on your name and/or appearance/self-presentation (you are not obligated to do so). If you use a chosen name, please let me know. Chosen names and pronouns are to be respected at all times in the classroom. Mistakes in addressing one another may happen, so I encourage an environment of openness to correction and learning. I will not however, tolerate repeated comments which disrespect or antagonize students who have indicated pronouns or a chosen name."
+  },
+  {
+    "objectID": "syllabus.html#honor-code",
+    "href": "syllabus.html#honor-code",
+    "title": "Syllabus",
+    "section": "Honor Code",
+    "text": "Honor Code\nStudents are expected to do their own work and to cite sources appropriately. Plagiarism will not be tolerated. In other words, students will be held to the standards of the Rice Honor Code to which they agreed when enrolling at this institution. You can read more about the Honor Code and the Honor System at http://honor.rice.edu/."
+  },
+  {
+    "objectID": "syllabus.html#disability-resource-center",
+    "href": "syllabus.html#disability-resource-center",
+    "title": "Syllabus",
+    "section": "Disability Resource Center",
+    "text": "Disability Resource Center\nIf you have a documented disability or other condition that may affect academic performance you should: 1) make sure this documentation is on file with the Disability Resource Center (Allen Center, Room 111 / adarice@rice.edu / x5841) to determine the accommodations you need; and 2) talk with me to discuss your accommodation needs."
+  },
+  {
+    "objectID": "syllabus.html#wellbeing-and-mental-health",
+    "href": "syllabus.html#wellbeing-and-mental-health",
+    "title": "Syllabus",
+    "section": "Wellbeing and Mental Health",
+    "text": "Wellbeing and Mental Health\nThe wellbeing and mental health of students is important; if you are having trouble completing your coursework, please reach out to the Wellbeing and Counseling Center. Rice University provides cost-free mental health services through the Wellbeing and Counseling Center to help you manage personal challenges that threaten your personal or academic well-being. If you believe you are experiencing unusual amounts of stress, sadness, or anxiety, the Student Wellbeing Office or the Rice Counseling Center may be able to assist you. 713-348-3311 24/7."
+  },
+  {
+    "objectID": "syllabus.html#center-for-academic-and-professional-communication",
+    "href": "syllabus.html#center-for-academic-and-professional-communication",
+    "title": "Syllabus",
+    "section": "Center for Academic and Professional Communication",
+    "text": "Center for Academic and Professional Communication\nThe Center for Academic and Professional Communication offers one-on-one appointments with peer consultants who can help you improve your written, oral, and visual communication skills. You are encouraged to use this resource when working on your class assignments to make your arguments more compelling, your sentences clearer, and persistent grammatical errors nonexistent. You can schedule an appointment at https://pwc.rice.edu/center-academic-and-professional-communication."
+  },
+  {
+    "objectID": "syllabus.html#syllabus-change-policy",
+    "href": "syllabus.html#syllabus-change-policy",
+    "title": "Syllabus",
+    "section": "Syllabus Change Policy",
+    "text": "Syllabus Change Policy\nThis syllabus is only a guide for the course and is subject to change with advanced notice."
+  }
+]
