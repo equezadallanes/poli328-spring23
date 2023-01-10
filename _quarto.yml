@@ -8,7 +8,7 @@ execute:
 
 website:
   title: "POLI 328: Latina/o Politics in the US"
-  site-url: "https://equezadallanes.github.io/poli328-spring23/"
+  site-url: "https://poli328.spring23.equezadallanes.com/"
   
   navbar:
     pinned: true
@@ -32,6 +32,17 @@ website:
         - section: "Overview"
           contents:
             - assignment/index.qmd
+        - section: "Assignments"
+          contents:
+            - assignment/campaign-memo.qmd
+            - assignment/literature-review.qmd
+            - assignment/oral-presentation.qmd
+        - section: "Research Design Paper"
+          contents: 
+            - assignment/final-paper.qmd
+            - assignment/research-question.qmd
+            - assignment/literature-review.qmd
+            - assignment/research-design.qmd
             
     - title: "Content"
       contents:
@@ -43,6 +54,16 @@ website:
             - content/01-intro.qmd
             - content/02-latino-identity.qmd
             - content/03-politicized-identities.qmd
+            - content/04-history-demographics.qmd
+            - content/05-behavior.qmd
+            - content/06-partisanship-ideology.qmd
+            - content/07-latino-activism.qmd
+            - content/08-participation.qmd
+            - content/09-religion.qmd
+            - content/10-immigration.qmd
+            - content/11-representation.qmd
+            - content/12-elections.qmd
+            - content/13-perceptions.qmd
     
     - title: "Resources"
       contents:
@@ -51,6 +72,7 @@ website:
             - resource/index.qmd
             - resource/reading.qmd
             - resource/writing.qmd
+            - resource/summaries.qmd
             - resource/citations.qmd
             - resource/website.qmd
 

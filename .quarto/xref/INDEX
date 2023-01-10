@@ -43,5 +43,56 @@
   },
   "resource/website.qmd": {
     "website.html": "a8321ba2"
+  },
+  "content/04-history-demographics.qmd": {
+    "04-history-demographics.html": "0a2d5a3c"
+  },
+  "content/05-behavior.qmd": {
+    "05-behavior.html": "1b794ae7"
+  },
+  "content/06-partisanship-ideology.qmd": {
+    "06-partisanship-ideology.html": "cc533b2f"
+  },
+  "content/07-latino-activism.qmd": {
+    "07-latino-activism.html": "d4cb13ca"
+  },
+  "content/08-participation.qmd": {
+    "08-participation.html": "b6c6281d"
+  },
+  "content/09-religion.qmd": {
+    "09-religion.html": "4be63ee8"
+  },
+  "content/10-immigration.qmd": {
+    "10-immigration.html": "97ffa4df"
+  },
+  "content/11-representation.qmd": {
+    "11-representation.html": "6f7ab36c"
+  },
+  "content/12-elections.qmd": {
+    "12-elections.html": "2f8736ca"
+  },
+  "content/13-perceptions.qmd": {
+    "13-perceptions.html": "ad2f4a27"
+  },
+  "resource/summaries.qmd": {
+    "summaries.html": "88e7752e"
+  },
+  "assignment/campaign-memo.qmd": {
+    "campaign-memo.html": "045be2e8"
+  },
+  "assignment/final-paper.qmd": {
+    "final-paper.html": "66470832"
+  },
+  "assignment/literature-review.qmd": {
+    "literature-review.html": "be691d8d"
+  },
+  "assignment/oral-presentation.qmd": {
+    "oral-presentation.html": "cd74f457"
+  },
+  "assignment/research-design.qmd": {
+    "research-design.html": "f91e8e37"
+  },
+  "assignment/research-question.qmd": {
+    "research-question.html": "94bc9134"
   }
 }
