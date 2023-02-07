@@ -1,0 +1,39 @@
+---
+title: "List of Literature"
+---
+
+:::{.callout-important}
+Due February 17th at 5:00 pm on Canvas
+:::
+
+## Task
+
+Submit a list of at least five peer-reviewed journal articles for your literature review or final paper.
+
+The goal is to help you get started on identifying the literature you need to engage with for your research project. By conducting research, you are entering a conversation with other academics, so you must be familiar with the ideas and findings that are already out there.
+
+## How do you find those peer-reviewed journal articles?
+
+While this may be a challenging step, start by thinking about your outcome of interest (dependent variable) and your explanatory variable (independent variable). Now, you have two keywords for your project that you can look up on an academic database (e.g., Google Scholar). 
+
+**Example:** if I am interested on the relationship between national origin and partisanship among Latinos, I would want to search for "national origin," "partisanship," and "Latino." I would try different combinations of these terms because you need to know the impact of national origin on different outcomes as well as the predictors of partisanship beyond national origin.
+
+**About peer-review:** The articles you cite must come from peer-reviewed journals. This means that these articles have been reviewed by scholars (other than the authors) who study similar topics and who have deemed the article, along with the journal editors, acceptable for publication. Here's a [non-exhaustive list of some journals](../resource/journals.html) you might find in your search.
+
+
+## Criteria for Success
+
+In order to obtain full points for this assignment you must do the following:
+
+1. After the title (e.g., "Reference List"), write the research question (so I can identify what your project is about)
+2. List at least five peer-reviewed journal articles using the full citation in **APA** or **APSA** style (only use one). 
+3. Double check the citations. Do not rely completely on an online generator!
+4. (Optional) Write down the keywords you used for your search (this can assist me in suggesting additional terms)
+
+
+
+:::{.callout-note}
+This assignment will count as 2% of your final grade (part of the total 20% of the final paper).
+:::
+
+

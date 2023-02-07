@@ -35,12 +35,14 @@ website:
         - section: "Assignments"
           contents:
             - assignment/campaign-memo.qmd
+            - assignment/literature-list.qmd
             - assignment/literature-review.qmd
             - assignment/oral-presentation.qmd
         - section: "Research Design Paper"
           contents: 
             - assignment/final-paper.qmd
             - assignment/research-question.qmd
+            - assignment/literature-list.qmd
             - assignment/literature-review.qmd
             - assignment/research-design.qmd
             
@@ -74,6 +76,7 @@ website:
             - resource/writing.qmd
             - resource/summaries.qmd
             - resource/citations.qmd
+            - resource/journals.qmd
             - resource/website.qmd
 
 

@@ -94,5 +94,11 @@
   },
   "assignment/research-question.qmd": {
     "research-question.html": "94bc9134"
+  },
+  "resource/journals.qmd": {
+    "journals.html": "3b39d5bc"
+  },
+  "assignment/literature-list.qmd": {
+    "literature-list.html": "5df1ec65"
   }
 }

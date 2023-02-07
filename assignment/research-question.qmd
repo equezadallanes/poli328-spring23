@@ -2,6 +2,24 @@
 title: "Topic Proposal and Research Question"
 ---
 
-Instructions coming soon.
+:::{.callout-important}
+Due February 3rd at 5:00 pm on Canvas
+:::
 
+## Task
 
+Submit one paragraph (between 2 and 5 sentences) proposing a topic and research question for your final paper.
+
+Briefly introduce the topic you are interested in and formulate a research question. Remember that research questions can take different forms. For example, you might see the following:
+
+1. What is the effect of *x* on *y*?
+2. Why do some people (community or policy) do one thing and others do another thing?
+3. How does *x* relate to *y*?
+
+Scholars have different preferences for how a question is best formulated, and the *same question can be reworked to fit several constructions*. For example, in a co-authored project my colleagues and I ask, "do Hispanic voters care if a political candidate speaks to them in Spanish and does it matter how proficient the candidate sounds?" This two-part question fits both the first and third examples. If we knew that some Spanish-language appeals from candidates are more successful than others, we could have asked, "why are some Spanish-language appeals effective while others are not?" Now it looks more like the second example.
+
+Whatever construction you choose for now, think about what kind of answer there might be to your questions and why. Choose something that interests you and that you really want to know.
+
+:::{.callout-note}
+This assignment will count as 2% of your final grade (part of the total 20% of the final paper).
+:::
