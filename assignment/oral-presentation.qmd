@@ -2,7 +2,34 @@
 title: "Oral Presentation"
 ---
 
-Instructions coming soon.
+Your research presentations will take place via Zoom on Tuesday, April 18, and Thursday, April 20. Your presentation should be between 8-10 minutes, and there will be about five minutes for questions from your peers.
 
+
+The schedule and Zoom link is posted on Canvas.
+
+You **must** join the Zoom call both days. You will only present on either Tuesday or Thursday, but you are expected to give feedback to everyone in your group. For the feedback, I have set up peer-review assignments on Canvas.
+
+
+# Organization of the Presentation
+
+Your presentation must include the following sections:
+
+1. Motivation: use an example that shows why your question matters or some interesting data that captures the audience's attention
+
+2. Research Question: this may come before or after the literature review (whatever you think works best in the flow of the presentation)
+
+3. Literature Review: tell us what we know and what we don't know in a couple of slides.
+
+4. Theory
+
+5. Research Design
+
+6. Implications and Conclusion
+
+
+
+:::{.callout-note}
+This assignment is worth 15% of your final grade for this course.
+:::
 
 

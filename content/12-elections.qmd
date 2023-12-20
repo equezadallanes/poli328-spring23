@@ -11,6 +11,24 @@ title: "Contemporary Voting Behavior: The Elections of 2016 and 2020"
 2. Barreto, Matt, Albert Morales and Gary Segura. 2019. "The Brown Tide and the Blue Wave in 2018." In Larry Sabato, Kyle Kondik, Geoffrey Skelley (eds.) *The Blue Wave.* New York: Rowman & Littlefield. ({{< fa file-pdf >}} available on Canvas)
 
 
+### For class:
+
+#### 2016 Election
+
+1. [*NPR* coverage](https://www.npr.org/2016/12/22/506347254/latinos-will-never-vote-for-a-republican-and-other-myths-about-hispanics-from-20)
+
+2. [*USA Today* coverage](https://www.usatoday.com/story/news/politics/elections/2016/2016/11/09/hispanic-vote-election-2016-donald-trump-hillary-clinton/93540772/) 
+
+
+#### 2018 Midterms
+
+1. [*NBC News* coverage](https://www.nbcnews.com/politics/politics-news/latino-vote-surged-2018-new-data-shows-n998481)
+
+2. [*The Guardian* coverage](https://www.theguardian.com/us-news/2018/nov/14/latino-turnout-up-174-in-2018-midterms-elections-democrats-say)
+
+
+
+
 ---
 
 
@@ -20,6 +38,10 @@ title: "Contemporary Voting Behavior: The Elections of 2016 and 2020"
 
 1. **Ocampo, Angela X., Sergio I. Garcia-Rios, and Angela E. Gutierrez. 2021. ["Háblame de Tí: Latino Mobilization, Group Dynamics and Issue Prioritization in the 2020 Election."](https://doi.org/10.1515/for-2020-2110) *The Forum* 18(4): 531–58.** ({{< fa file-pdf >}} available on Canvas)
 
+### For class
 
+#### 2020 Election
+
+1. [PEW data](https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/pp_2021-06-30_validated-voters_00-02/)
 
  

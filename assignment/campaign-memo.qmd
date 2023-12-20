@@ -2,6 +2,44 @@
 title: "Campaign Memo"
 ---
 
-Instructions coming soon.
+:::{.callout-important}
+Due March 24th at 5:00 pm on Canvas
+:::
+
+## Purpose
+
+This assignment will help you think critically about the role of Latino voters in American elections. Additionally, you will practice identifying key pieces of information to inform campaign strategy.
+
+## Task
+
+Write a 4- to 6-page memo for a Senate campaign (single-spaced, 12-point font, 1-inch margins). 
+
+First, choose a U.S. state and define your candidate (provide information on the candidate as an appendix). Next, imagine you are part of the staff and your specific role is Latino outreach. In the memo, provide your candidate and the campaign with the information and advice they need to understand the importance of the Latino vote and how to mobilize Latino voters.
+
+Make sure to provide clear takeaways for your candidate and campaign. Think about three things you really want the staff to remember and be able to execute, and make sure the information and analysis you present support those conclusions.
+
+
+## Criteria for success
+
+A successful essay will:
+
+1. Describe the characteristics of the Latino population in the state.
+2. Provide an analysis of the potential for mobilizing these voters and what strategies the campaign should pursue.
+3. Clearly define three takeaways for the campaign about how to reach out to Latino voters considering their proportion of the state's population.
+4. Have a coherent structure (paragraphs and headers are your friends here) and no grammatical errors.
+5. Reference at least three readings from class. Use [Chicago style](https://politics.ucsc.edu/undergraduate/chicago%20style%20guide.pdf) for citations (i.e., footnotes). 
+
+Cite academic work in an appropriate tone for the audience. For example, I recommend not using the article's title or even mentioning the authors in the text. Instead, just say "researchers," "scholars," "political scientists," "sociologists," or use any other general terms. The full reference should be in the footnote, per Chicago style. 
+
+
+## Resources
+
+Here are two examples of campaign memos. These address various groups a campaign might target so it will be useful to look at them again. Use these examples to understand the genre and see how they are structured. Consider the following: What is important in this pieces of writing? How are those goals reflected in how the text is organized? How is it reflected in the tone of the piece?
+
+- [Biden campaign memo example](https://www.wispolitics.com/2020/biden-campaign-memo)
+- [Buttigieg campaign memo example](https://www.documentcloud.org/documents/6785938-Path-to-Nomination.html)
+
+
+
 
 

@@ -26,7 +26,7 @@ We will work on different parts of the final paper over the course of the semest
 
 - [Topic proposal with research question](/assignment/research-question.html) (due February 3rd at 5pm)
 - [List of literature review](/assignment/literature-list.html) (due February 17th at 5pm)
-- Literature review (due date TBD)
+- [Literature review](/assignment/literature-review.html) (due March 3rd at 5 pm)
 - Research design (due date TBD)
 
 

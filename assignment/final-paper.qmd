@@ -2,6 +2,30 @@
 title: "Final paper"
 ---
 
-Instructions coming soon.
+Write a research design paper of at least 8 double-spaced pages (12-point font, 1-inch margins) that includes the following sections:
+
+1. Introduction
+2. Literature Review
+3. Theory
+4. Research Design
+5. Conclusion
+
+# Criteria for success
+
+A successful research design paper:
+
+1. Presents a clear and well-motivated research question
+2. Identifies the relevant literature and where the paper fits within that body of work
+3. Presents two testable and falsifiable hypotheses with appropriate justification/explanation
+4. Discusses implications of the work
+
+Additionally, pay attention to the following:
+
+- Include a properly formatted reference page. Use APA or APSA style.
+- Proofread your paper so that there are no grammatical or punctuation mistakes. This includes capitalization and placement of quotation marks after punctuation. In case of doubt, use Google and the resources in the ["Writing" section](../resource/writing.html) of this website. I encourage you to use [Grammarly](https://www.grammarly.com/) as well.
 
 
+
+:::{.callout-note}
+This assignment is worth 20% of your final grade for this course.
+:::
